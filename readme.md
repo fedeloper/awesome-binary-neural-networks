@@ -1,6 +1,6 @@
 # Awesome Binary Neural Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources on binary neural networks. Inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+A curated list of resources on binary neural networks.
 
 > Contributions via pull requests are highly appreciated.
 
