@@ -1,119 +1,12 @@
-# Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Binary Neural Networks
 
-Awesome resources in deep neural network pruning. This collection is prepared and inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+A curated list of resources on Binary Neural Networks. 
 
-> [Note: You are welcome to create pull requests and add more interesting papers.]
+> Contributions via pull requests are highly appreciated.
 
-## Regular Publications
+## Conference Papers
 
-
-### Journal
-
-**<h3 align='center'>2024</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [Toward Pixel-Level Precision for Binary Super-Resolution With Mixed Binary Representation](https://) | IEEE Transactions on Neural Networks and Learning Systems | [Link](#) |
-
-**<h3 align='center'>2023</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [GAAF: Searching Activation Functions for Binary Neural Networks Through Genetic Algorithm](https://) | Tsinghua Science and Technology | [Link](#) |
-| [Fault Diagnosis for Modular Multilevel Converter (MMC) Based on Deep Learning: An Edge Implementation Using Binary Neural Network](https://) | IEEE Journal of Emerging and Selected Topics in Power Electronics | [Link](#) |
-
-**<h3 align='center'>2022</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [“Ghost” and Attention in Binary Neural Network](https://) | IEEE Access | [Link](#) |
-| [RB-Net: Training Highly Accurate and Efficient Binary Neural Networks With Reshaped Point-Wise Convolution and Balanced Activation](https://) | IEEE Transactions on Circuits and Systems for Video Technology | [Link](#) |
-| [An Energy-Efficient High CSNR XNOR and Accumulation Scheme for BNN](https://) | IEEE Transactions on Circuits and Systems II: Express Briefs | [Link](#) |
-| [Sub-mW Keyword Spotting on an MCU: Analog Binary Feature Extraction and Binary Neural Networks](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
-| [Binary Neural Network for Multispectral Image Classification](https://) | IEEE Geoscience and Remote Sensing Letters | [Link](#) |
-| [BiT: Robustly Binarized Multi-distilled Transformer](https://) | Advances in Neural Information Processing Systems | [Link](#) |
-| [Distribution-sensitive information retention for accurate binary neural network](https://) | International Journal of Computer Vision | [Link](#) |
-| [BiMLP: Compact Binary Architectures for Vision Multi-Layer Perceptrons](https://) | arXiv preprint arXiv:2212.14158 | [Link](#) |
-| [TA-BiDet: Task-aligned binary object detector](https://) | Neurocomputing | [Link](#) |
-| [BiFSMN: Binary Neural Network for Keyword Spotting](https://) | IJCAI | [Link](#) |
-| [BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance](https://) | IEEE Transactions on Neural Networks and Learning Systems (TNNLS) | [Link](#) |
-
-**<h3 align='center'>2021</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [A Review of Recent Advances of Binary Neural Networks for Edge Computing](https://) | IEEE Journal on Miniaturization for Air and Space Systems | [Link](#) |
-| [Global-Gate Controlled One-Transistor One-Digital-Memristor Structure for Low-Bit Neural Network](https://) | IEEE Electron Device Letters | [Link](#) |
-| [Multi-prize lottery ticket hypothesis: Finding accurate binary neural networks by pruning a randomly weighted network](https://) | arXiv preprint arXiv:2103.09377 | [Link](#) |
-| [Learning frequency domain approximation for binary neural networks](https://) | Advances in Neural Information Processing Systems | [Link](#) |
-| [ReCU: Reviving the Dead Weights in Binary Neural Networks](https://) | arXiv preprint arXiv:2103.12369 | [Link](#) |
-| [Data-Adaptive Binary Neural Networks for Efficient Object Detection and Recognition](https://) | Pattern Recognition Letters | [Link](#) |
-| [Training Multi-Bit Quantized and Binarized Networks with a Learnable Symmetric Quantizer](https://) | IEEE Access | [Link](#) |
-| [O3BNN-R: An Out-of-Order Architecture for High-Performance and Regularized BNN Inference](https://) | IEEE Transactions on Parallel and Distributed Systems | [Link](#) |
-| [High-Precision Binary Object Detector Based on a BSF-XNOR Convolutional Layer](https://) | IEEE Access | [Link](#) |
-
-**<h3 align='center'>2020</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [Fixed-Sign Binary Neural Network: An Efficient Design of Neural Network for Internet-of-Things Devices](https://) | IEEE Access | [Link](#) |
-| [An Energy-Efficient Deep Convolutional Neural Network Inference Processor With Enhanced Output Stationary Dataflow in 65-nm CMOS](https://) | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](#) |
-| [Rotation Consistent Margin Loss for Efficient Low-bit Face Recognition](https://) | CoRR | [Link](#) |
-| [STBNN: Hardware-friendly spatio-temporal binary neural network with high pattern recognition accuracy](https://) | Neurocomputing | [Link](#) |
-| [Bats: Binary architecture search](https://) | arXiv preprint arXiv:2003.01711 | [Link](#) |
-| [Training binary neural networks with real-to-binary convolutions](https://) | arXiv preprint arXiv:2003.11535 | [Link](#) |
-| [MeliusNet: Can binary neural networks achieve mobilenet-level accuracy?](https://) | arXiv preprint arXiv:2001.05936 | [Link](#) |
-| [Rotated Binary Neural Network](https://) | Advances in Neural Information Processing Systems | [Link](#) |
-| [Binaryduo: Reducing gradient mismatch in binary activation network by coupling binary activations](https://) | arXiv preprint arXiv:2002.06517 | [Link](#) |
-| [Improving Accuracy of Binary Neural Networks using Unbalanced Activation Distribution](https://) | arXiv preprint arXiv:2012.00938 | [Link](#) |
-| [BiPointNet: Binary Neural Network for Point Clouds](https://) | arXiv preprint arXiv:2010.05501 | [Link](#) |
-
-**<h3 align='center'>2019</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [Xcel-RAM: Accelerating Binary Neural Networks in High-Throughput SRAM Compute Arrays](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
-| [Learning in Memristive Neural Network Architectures Using Analog Backpropagation Circuits](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
-| [XNOR-Net++: Improved Binary Neural Networks](https://) | CoRR | [Link](#) |
-| [Improved training of binary networks for human pose estimation and image recognition](https://) | CoRR | [Link](#) |
-| [Bayesian Optimized 1-Bit CNNs](https://) | CoRR | [Link](#) |
-| [Xnor-net++: Improved binary neural networks](https://) | arXiv preprint arXiv:1909.13863 | [Link](#) |
-| [Stochastic quantization for learning accurate low-bit deep neural networks](https://) | International Journal of Computer Vision | [Link](#) |
-| [RBCN: Rectified binary convolutional networks for enhancing the performance of 1-bit DCNNs](https://) | arXiv preprint arXiv:1908.07748 | [Link](#) |
-| [Binary neural networks for speech recognition](https://) | Frontiers of Information Technology \& Electronic Engineering | [Link](#) |
-
-**<h3 align='center'>2018</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [An Architecture to Accelerate Convolution in Deep Neural Networks](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
-| [An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks](https://) | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](#) |
-| [Training Competitive Binary Neural Networks from Scratch](https://) | CoRR | [Link](#) |
-| [BNN+: Improved Binary Network Training](https://) | CoRR | [Link](#) |
-| [Distilled Binary Neural Network for Monaural Speech Separation](https://) | IJCNN | [Link](#) |
-| [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://) | AAAI | [Link](#) |
-| [Converging blockchain and next-generation artificial intelligence technologies to decentralize and accelerate biomedical research and healthcare](https://) | Oncotarget | [Link](#) |
-| [Regularized binary network training](https://) | arXiv preprint arXiv:1812.11800 | [Link](#) |
-| [Fast object detection based on binary deep convolution neural networks](https://) | CAAI Transactions on Intelligence Technology | [Link](#) |
-
-**<h3 align='center'>2017</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [An Energy-Efficient Precision-Scalable ConvNet Processor in 40-nm CMOS](https://) | IEEE Journal of Solid-State Circuits | [Link](#) |
-| [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://) | CoRR | [Link](#) |
-| [Local binary features for texture classification: Taxonomy and experimental study](https://) | Pattern Recognition | [Link](#) |
-| [Towards accurate binary convolutional neural network](https://) | arXiv preprint arXiv:1711.11294 | [Link](#) |
-| [Learning accurate low-bit deep neural networks with stochastic quantization](https://) | arXiv preprint arXiv:1708.01001 | [Link](#) |
-
-**<h3 align='center'>2016</h3>**
-
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [Bitwise Neural Networks](https://) | CoRR | [Link](#) |
-| [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://) | CoRR | [Link](#) |
-| [Bitwise neural networks](https://) | arXiv preprint arXiv:1601.06071 | [Link](#) |
-| [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://) | CoRR | [Link](http://arxiv.org/abs/1606.06160) |
+This section lists all conference publications relevant to Binary Neural Networks.
 
 
 ### Conference
@@ -224,70 +117,122 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 |:------|:------|:----:|
 | [Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks](https://) | Proceedings of the IEEE conference on computer vision and pattern recognition | [Link](#) |
 
+## Journal Articles
 
-### Other
+Journal articles that contribute to the field of neural network pruning are compiled here.
+
+
+### Journal
+
+**<h3 align='center'>2024</h3>**
+
+| Title | Venue | Link |
+|:------|:------|:----:|
+| [Toward Pixel-Level Precision for Binary Super-Resolution With Mixed Binary Representation](https://) | IEEE Transactions on Neural Networks and Learning Systems | [Link](#) |
+
+**<h3 align='center'>2023</h3>**
+
+| Title | Venue | Link |
+|:------|:------|:----:|
+| [GAAF: Searching Activation Functions for Binary Neural Networks Through Genetic Algorithm](https://) | Tsinghua Science and Technology | [Link](#) |
+| [Fault Diagnosis for Modular Multilevel Converter (MMC) Based on Deep Learning: An Edge Implementation Using Binary Neural Network](https://) | IEEE Journal of Emerging and Selected Topics in Power Electronics | [Link](#) |
+
+**<h3 align='center'>2022</h3>**
+
+| Title | Venue | Link |
+|:------|:------|:----:|
+| [“Ghost” and Attention in Binary Neural Network](https://) | IEEE Access | [Link](#) |
+| [RB-Net: Training Highly Accurate and Efficient Binary Neural Networks With Reshaped Point-Wise Convolution and Balanced Activation](https://) | IEEE Transactions on Circuits and Systems for Video Technology | [Link](#) |
+| [An Energy-Efficient High CSNR XNOR and Accumulation Scheme for BNN](https://) | IEEE Transactions on Circuits and Systems II: Express Briefs | [Link](#) |
+| [Sub-mW Keyword Spotting on an MCU: Analog Binary Feature Extraction and Binary Neural Networks](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
+| [Binary Neural Network for Multispectral Image Classification](https://) | IEEE Geoscience and Remote Sensing Letters | [Link](#) |
+| [BiT: Robustly Binarized Multi-distilled Transformer](https://) | Advances in Neural Information Processing Systems | [Link](#) |
+| [Distribution-sensitive information retention for accurate binary neural network](https://) | International Journal of Computer Vision | [Link](#) |
+| [BiMLP: Compact Binary Architectures for Vision Multi-Layer Perceptrons](https://) | arXiv preprint arXiv:2212.14158 | [Link](#) |
+| [TA-BiDet: Task-aligned binary object detector](https://) | Neurocomputing | [Link](#) |
+| [BiFSMN: Binary Neural Network for Keyword Spotting](https://) | IJCAI | [Link](#) |
+| [BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance](https://) | IEEE Transactions on Neural Networks and Learning Systems (TNNLS) | [Link](#) |
 
 **<h3 align='center'>2021</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [Efficient Binary Cnn For Medical Image Segmentation](https://) | 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) | [Link](#) |
-| [Structured Binary Neural Networks for Image Recognition](https://) | No Venue | [Link](#) |
+| [A Review of Recent Advances of Binary Neural Networks for Edge Computing](https://) | IEEE Journal on Miniaturization for Air and Space Systems | [Link](#) |
+| [Global-Gate Controlled One-Transistor One-Digital-Memristor Structure for Low-Bit Neural Network](https://) | IEEE Electron Device Letters | [Link](#) |
+| [Multi-prize lottery ticket hypothesis: Finding accurate binary neural networks by pruning a randomly weighted network](https://) | arXiv preprint arXiv:2103.09377 | [Link](#) |
+| [Learning frequency domain approximation for binary neural networks](https://) | Advances in Neural Information Processing Systems | [Link](#) |
+| [ReCU: Reviving the Dead Weights in Binary Neural Networks](https://) | arXiv preprint arXiv:2103.12369 | [Link](#) |
+| [Data-Adaptive Binary Neural Networks for Efficient Object Detection and Recognition](https://) | Pattern Recognition Letters | [Link](#) |
+| [Training Multi-Bit Quantized and Binarized Networks with a Learnable Symmetric Quantizer](https://) | IEEE Access | [Link](#) |
+| [O3BNN-R: An Out-of-Order Architecture for High-Performance and Regularized BNN Inference](https://) | IEEE Transactions on Parallel and Distributed Systems | [Link](#) |
+| [High-Precision Binary Object Detector Based on a BSF-XNOR Convolutional Layer](https://) | IEEE Access | [Link](#) |
 
 **<h3 align='center'>2020</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [BNN Pruning: Pruning Binary Neural Network Guided by Weight Flipping Frequency](https://) | 2020 21st International Symposium on Quality Electronic Design (ISQED) | [Link](#) |
-| [Forward and Backward Information Retention for Accurate Binary Neural Networks](https://) | CVPR | [Link](#) |
-| [Balanced Binary Neural Networks with Gated Residual](https://) | ICASSP | [Link](#) |
-| [Training binary neural networks with real-to-binary convolutions](https://) | ICLR | [Link](#) |
-| [BinaryBERT: Pushing the Limit of BERT Quantization](https://) | No Venue | [Link](#) |
-| [Searching for Low-Bit Weights in Quantized Neural Networks](https://) | Advances in Neural Information Processing Systems | [Link](https://proceedings.neurips.cc/paper/2020/file/2a084e55c87b1ebcdaad1f62fdbbac8e-Paper.pdf) |
+| [Fixed-Sign Binary Neural Network: An Efficient Design of Neural Network for Internet-of-Things Devices](https://) | IEEE Access | [Link](#) |
+| [An Energy-Efficient Deep Convolutional Neural Network Inference Processor With Enhanced Output Stationary Dataflow in 65-nm CMOS](https://) | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](#) |
+| [Rotation Consistent Margin Loss for Efficient Low-bit Face Recognition](https://) | CoRR | [Link](#) |
+| [STBNN: Hardware-friendly spatio-temporal binary neural network with high pattern recognition accuracy](https://) | Neurocomputing | [Link](#) |
+| [Bats: Binary architecture search](https://) | arXiv preprint arXiv:2003.01711 | [Link](#) |
+| [Training binary neural networks with real-to-binary convolutions](https://) | arXiv preprint arXiv:2003.11535 | [Link](#) |
+| [MeliusNet: Can binary neural networks achieve mobilenet-level accuracy?](https://) | arXiv preprint arXiv:2001.05936 | [Link](#) |
+| [Rotated Binary Neural Network](https://) | Advances in Neural Information Processing Systems | [Link](#) |
+| [Binaryduo: Reducing gradient mismatch in binary activation network by coupling binary activations](https://) | arXiv preprint arXiv:2002.06517 | [Link](#) |
+| [Improving Accuracy of Binary Neural Networks using Unbalanced Activation Distribution](https://) | arXiv preprint arXiv:2012.00938 | [Link](#) |
+| [BiPointNet: Binary Neural Network for Point Clouds](https://) | arXiv preprint arXiv:2010.05501 | [Link](#) |
 
 **<h3 align='center'>2019</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity Through Low-Bit Quantization](https://) | IEEE CVPR | [Link](#) |
-| [A Systematic Study of Binary Neural Networks' Optimisation](https://) | ICLR | [Link](#) |
-| [Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation](https://) | IEEE CVPR | [Link](#) |
-| [daBNN: A Super Fast Inference Framework for Binary Neural Networks on ARM devices](https://) | ACM MM | [Link](#) |
+| [Xcel-RAM: Accelerating Binary Neural Networks in High-Throughput SRAM Compute Arrays](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
+| [Learning in Memristive Neural Network Architectures Using Analog Backpropagation Circuits](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
+| [XNOR-Net++: Improved Binary Neural Networks](https://) | CoRR | [Link](#) |
+| [Improved training of binary networks for human pose estimation and image recognition](https://) | CoRR | [Link](#) |
+| [Bayesian Optimized 1-Bit CNNs](https://) | CoRR | [Link](#) |
+| [Xnor-net++: Improved binary neural networks](https://) | arXiv preprint arXiv:1909.13863 | [Link](#) |
+| [Stochastic quantization for learning accurate low-bit deep neural networks](https://) | International Journal of Computer Vision | [Link](#) |
+| [RBCN: Rectified binary convolutional networks for enhancing the performance of 1-bit DCNNs](https://) | arXiv preprint arXiv:1908.07748 | [Link](#) |
+| [Binary neural networks for speech recognition](https://) | Frontiers of Information Technology \& Electronic Engineering | [Link](#) |
 
 **<h3 align='center'>2018</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [Towards Effective Low-Bitwidth Convolutional Neural Networks](https://) | IEEE CVPR | [Link](#) |
-| [From Hashing to CNNs: Training Binary Weight Networks via Hashing](https://) | AAAI | [Link](#) |
-| [Efficient Deep Learning in Network Compression and Acceleration](https://) | No Venue | [Link](#) |
-| [BitStream: Efficient Computing Architecture for Real-Time Low-Power Inference of Binary Neural Networks on CPUs](https://) | ACM MM | [Link](#) |
-| [Training Binary Weight Networks via Semi-Binary Decomposition](https://) | ECCV | [Link](#) |
-| [BitFlow: Exploiting vector parallelism for binary neural networks on CPU](https://) | 2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS) | [Link](#) |
-| [Bi-Real Net: Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm](https://) | ECCV | [Link](#) |
-| [ReBNet: Residual binarized neural network](https://) | 2018 IEEE 26th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM) | [Link](#) |
+| [An Architecture to Accelerate Convolution in Deep Neural Networks](https://) | IEEE Transactions on Circuits and Systems I: Regular Papers | [Link](#) |
+| [An Energy-Efficient Architecture for Binary Weight Convolutional Neural Networks](https://) | IEEE Transactions on Very Large Scale Integration (VLSI) Systems | [Link](#) |
+| [Training Competitive Binary Neural Networks from Scratch](https://) | CoRR | [Link](#) |
+| [BNN+: Improved Binary Network Training](https://) | CoRR | [Link](#) |
+| [Distilled Binary Neural Network for Monaural Speech Separation](https://) | IJCNN | [Link](#) |
+| [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://) | AAAI | [Link](#) |
+| [Converging blockchain and next-generation artificial intelligence technologies to decentralize and accelerate biomedical research and healthcare](https://) | Oncotarget | [Link](#) |
+| [Regularized binary network training](https://) | arXiv preprint arXiv:1812.11800 | [Link](#) |
+| [Fast object detection based on binary deep convolution neural networks](https://) | CAAI Transactions on Intelligence Technology | [Link](#) |
 
 **<h3 align='center'>2017</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [In-datacenter performance analysis of a tensor processing unit](https://) | 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA) | [Link](#) |
-| [Towards Accurate Binary Convolutional Neural Network](https://) | NeurIPS | [Link](#) |
-| [Extremely Low Bit Neural Network: Squeeze the Last Bit Out With ADMM](https://) | AAAI | [Link](#) |
-| [Egocentric Gesture Recognition Using Recurrent 3D Convolutional Neural Networks With Spatiotemporal Transformer Modules](https://) | ICCV | [Link](#) |
-| [Binary Deep Neural Networks for Speech Recognition.](https://) | INTERSPEECH | [Link](#) |
+| [An Energy-Efficient Precision-Scalable ConvNet Processor in 40-nm CMOS](https://) | IEEE Journal of Solid-State Circuits | [Link](#) |
+| [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://) | CoRR | [Link](#) |
+| [Local binary features for texture classification: Taxonomy and experimental study](https://) | Pattern Recognition | [Link](#) |
+| [Towards accurate binary convolutional neural network](https://) | arXiv preprint arXiv:1711.11294 | [Link](#) |
+| [Learning accurate low-bit deep neural networks with stochastic quantization](https://) | arXiv preprint arXiv:1708.01001 | [Link](#) |
 
 **<h3 align='center'>2016</h3>**
 
 | Title | Venue | Link |
 |:------|:------|:----:|
-| [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://) | ECCV | [Link](#) |
+| [Bitwise Neural Networks](https://) | CoRR | [Link](#) |
+| [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://) | CoRR | [Link](#) |
+| [Bitwise neural networks](https://) | arXiv preprint arXiv:1601.06071 | [Link](#) |
+| [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://) | CoRR | [Link](http://arxiv.org/abs/1606.06160) |
 
-**<h3 align='center'>2015</h3>**
+## Workshop Papers
 
-| Title | Venue | Link |
-|:------|:------|:----:|
-| [BinaryConnect: Training Deep Neural Networks with binary weights during propagations](https://) | NeurIPS | [Link](#) |
+Workshop papers offering insights into neural network pruning techniques are presented in this section.
 
 
 ### Workshop
@@ -307,6 +252,8 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | [Amplitude Suppression and Direction Activation in Networks for 1-Bit Faster R-CNN](https://) | Proceedings of the 4th International Workshop on Embedded and Mobile Deep Learning | [Link](https://doi.org/10.1145/3410338.3412340) |
 
 ## Special Keyword Publications
+
+Publications specifically focusing on accelerators, FPGAs, memory optimization, or chip design in the context of Binary Neural Networks.
 
 
 ### Special Entries
