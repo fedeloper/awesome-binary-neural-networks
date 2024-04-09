@@ -3,7 +3,8 @@
 A curated list of resources on binary neural networks. Contributions via pull requests are highly appreciated.
 
 ## Publications
-
+| Title | Venue | Year | Link | Code Link |
+|:------|:------|:----:|:----:|:----:|
 | [A\&B BNN: Add\&Bit-Operation-Only Hardware-Friendly Binary Neural Network] | arXiv preprint arXiv:2403.03739 | 2024 | [Link](http://dx.doi.org/10.1609/aaai.v35i3.16306) | [Code](https://github.com/Ruichen0424/AB-BNN) |
 | [Ulit-BiDet: An Ultralightweight Object Detector for SAR Images Based on Binary Neural Networks] | IEEE Transactions on Geoscience and Remote Sensing | 2024 | [Link](https://doi.org/10.1109/TGRS.2024.3373488) | |
 | [BoolNet: Towards Energy-Efficient Binary Neural Networks Design and Optimization] | 2nd Workshop on Sustainable AI | 2024 | [Link](http://dx.doi.org/10.1145/3386263.3407582) | |
